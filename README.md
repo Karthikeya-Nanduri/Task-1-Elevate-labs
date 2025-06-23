@@ -1,5 +1,5 @@
 1) Installing Nmap from website -- I have done this task in my kali linux environment. So I have run a command to install nmap ( It will already be installed in the latest version of kali).
-     COMMANDS --  sudo apt-get install nmap
+     COMMANDS --  sudo apt-get install nmap,
                   sudo apt-get update
 
 2) Finding my local IP range -- I have used a command which gives my ip range along with its subnet mask.
